@@ -1,6 +1,10 @@
 # Diversity and Inclusion Conversation Kit
 
-### _How to start the the diversity and inclusion conversation at your company_
+#### _How to start the the diversity and inclusion conversation at your company_
+
+**[CLICK HERE TO VIEW PAGE AS HTML](http://htmlpreview.github.com/?https://github.com/numfocus/diversity-and-inclusion-conversation-kit/blob/master/guide.html)**
+
+-----
 
 ### Table of Contents
   1. [Get buy-in from your coworkers and leadership](#buy-in)
