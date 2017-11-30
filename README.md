@@ -1,6 +1,20 @@
 # Diversity and Inclusion Conversation Kit
 
 #### _How to start the diversity and inclusion conversation at your company_
+At the Diversity and Inclusion in Scientific Computing (DISC) Unconference, our group focused on ways to start and maintain conversations about diversity and inclusion in the workplace. Our product for the two-day unconference was an online Conversation Quick Start Kit and a set of D&I Big Talk cards (posted on GitHub).
+
+The Conversation Quick Start Kit was built from a variety of online resources, as well as input from other attendees at the unconference. There were three main questions framing the discussion:
+  1. How can I have a conversation with a coworker/friend about offensive comments with making them defensive?
+  1. When is the right time to have that conversation and how do I create a safe space for them to be willing to see my perspective?
+  1. After the starting conversation, how do I ensure that it progresses organically?
+
+The D&I Big Talk cards were inspired by Kalina Silverman’s site <a name="r-1"></a> [Make Big Talk](http://www.makebigtalk.com/). They are organized into three different levels, with the intention of being used over a series of small group or one-on-one meetings, progressing from level 1 to level 3. If you have suggestions for additional questions, please submit them <a name="r-1"></a> [here](https://docs.google.com/forms/d/e/1FAIpQLSf4mDz0Ovfs2Bb3Hrd2VJPUjLGpmJypKngTQTjcrS-rgDqhlQ/viewform). 
+
+Overall the DISC Unconference provided a fantastic venue for connecting with others who are also actively working to promote diversity and inclusion in the scientific computing community.
+
+
+
+
 
 **[CLICK HERE TO VIEW PAGE AS HTML](http://htmlpreview.github.com/?https://github.com/numfocus/diversity-and-inclusion-conversation-kit/blob/master/guide.html)**
 
