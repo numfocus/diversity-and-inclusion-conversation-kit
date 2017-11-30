@@ -84,7 +84,7 @@
   1. <a name="r-1"></a> [How to be an effective ally](https://www.ncwit.org/resources/read-online-maleadvocate) 
   1. <a name="r-1"></a> [Ally Skills Workshop](https://adainitiative.org/continue-our-work/workshops-and-training/)   
   1. <a name="r-1"></a> [Unconscious bias training](https://www.ncwit.org/resources/how-can-reducing-unconscious-bias-increase-women%E2%80%99s-success-it) 
-  1. <a name="r-1"></a> [Harvard Implicit Bias Test](https://adainitiative.org/continue-our-work/impostor-syndrome-training/) 
+  1. <a name="r-1"></a> [Harvard Implicit Bias Test](https://www.youtube.com/watch?v=nHDj4DH4mJw) 
   1. <a name="r-1"></a> [Imposter Syndrome Training](https://adainitiative.org/continue-our-work/impostor-syndrome-training/) 
   1. <a name="r-1"></a> [Self-care](https://adacamp.org/adacamp-toolkit/self-care/)   
   1. <a name="r-1"></a> [Working styles](https://www.insights.com/us) 
@@ -93,7 +93,7 @@
   1. <a name="r-1"></a> [Big Talk Cards](https://docs.google.com/document/d/1bxnFoI9fnWD0_6sdZKQRO8XQ4uhgR2GUcNVQ6IWzheU/edit?ts=5a1f1468)   
   1. <a name="r-1"></a> [Privilege 101: A Quick and Dirty Guide](https://everydayfeminism.com/2014/09/what-is-privilege) 
   1. <a name="r-1"></a> [Tokenism](http://geekfeminism.wikia.com/wiki/Tokenism)  
-  1. <a name="r-1"></a> [A World Without Black History](http://ombud.mit.edu/) 
+  1. <a name="r-1"></a> [A World Without Black History](https://www.youtube.com/watch?v=nHDj4DH4mJw) 
   1. <a name="r-1"></a> [MIT Ombud](http://ombud.mit.edu/)   
 - General Resources
   1. <a name="r-1"></a> [Change Together](https://www.changetogether.io/) 
@@ -105,7 +105,7 @@
   
 - Media
   - Podcasts
-    1. <a name="r-1"></a> [Stuff Mom Never Told You](https://www.npr.org/podcasts/510312/codeswitch)  
+    1. <a name="r-1"></a> [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com)  
     1. <a name="r-1"></a> [Code Switch](https://www.npr.org/podcasts/510312/codeswitch)
     1. <a name="r-1"></a> [TED](https://www.ted.com/topics/diversity)
     1. <a name="r-1"></a> [Closer Than They Appear](https://closerthantheyappear.fm/)
