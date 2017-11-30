@@ -80,7 +80,7 @@ Overall the DISC Unconference provided a fantastic venue for connecting with oth
   - Invite D&I speakers
   - Host D&I focused groups for meetups
   - Celebrate holidays and events for underrepresented minorities
-    - Black history month<sup>[[16](#r-16)]</sup>, gay pride, Yom Kippur
+    - Black history month<sup>[[16](#r-16)]</sup>, gay pride, Purim
   - Career fairs
   - Volunteer
   - Mentor
