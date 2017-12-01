@@ -4,10 +4,12 @@
 
 **[CLICK HERE TO VIEW PAGE AS HTML](http://htmlpreview.github.com/?https://github.com/numfocus/diversity-and-inclusion-conversation-kit/blob/master/guide.html)**
 
-At the [Diversity and Inclusion in Scientific Computing (DISC) Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/), our group focused on ways to start and maintain conversations about diversity and inclusion in the workplace. Our product for the two-day unconference was this quick start guide here and a set of D&I Big Talk cards<sup>[[13](#r-13)]</sup>.
+![numfocus-logo][./NumFocus.png]
+
+<img align="left" height="200" src="DISC.png" />At the [Diversity and Inclusion in Scientific Computing (DISC) Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/), our group focused on ways to start and maintain conversations about diversity and inclusion in the workplace. Our product for the two-day unconference was this quick start guide and a set of D&I Big Talk cards<sup>[[13](#r-13)]</sup>.
 
 The Conversation Quick Start Kit was built from a variety of online resources, as well as input from other attendees at the unconference. There were three main questions framing the discussion:
-  1. How can I have a conversation with a coworker/friend about offensive comments with making them defensive?
+  1. How can I have a conversation with a coworker/friend about offensive comments without making them defensive?
   1. When is the right time to have that conversation and how do I create a safe space for them to be willing to see my perspective?
   1. After the starting conversation, how do I ensure that it progresses organically?
 
