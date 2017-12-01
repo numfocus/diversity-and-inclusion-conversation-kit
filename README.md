@@ -59,7 +59,7 @@ Overall the DISC Unconference provided a fantastic venue for connecting with oth
   - Intent vs impact
   - How to be an effective ally<sup>[[4](#r-4), [14](#r-14)]</sup>
     - Host your own Ally Skills Workshop<sup>[[5](#r-5)]</sup>
-  - Unconscious bias training<sup>[[6](#r-6), [7](#r-7)]</sup>
+  - Unconscious bias training<sup>[[6](#r-6), [7](#r-7), [18](#r-18)]</sup>
   - Imposter syndrome
     - Host your own Imposter Syndrome Training<sup>[[8](#r-8)]</sup>
   - Mentorship program
@@ -107,7 +107,8 @@ Overall the DISC Unconference provided a fantastic venue for connecting with oth
   14. <a name="r-14"></a> [Privilege 101: A Quick and Dirty Guide](https://everydayfeminism.com/2014/09/what-is-privilege)
   15. <a name="r-15"></a> [Tokenism](http://geekfeminism.wikia.com/wiki/Tokenism)  
   16. <a name="r-16"></a> [A World Without Black History](https://www.youtube.com/watch?v=nHDj4DH4mJw)
-  17. <a name="r-17"></a> [MIT Ombud](http://ombud.mit.edu/)   
+  17. <a name="r-17"></a> [MIT Ombud](http://ombud.mit.edu/)
+  18. <a name="r-18"></a> [Paradigm: Managing Unconscious Bias](http://info.paradigmiq.com/unconscious_bias_white_paper)
 
 ### <a name="more-resources"></a> Additional Resources
 - General
