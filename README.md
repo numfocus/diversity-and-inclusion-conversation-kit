@@ -4,7 +4,7 @@
 
 **[CLICK HERE TO VIEW PAGE AS HTML](http://htmlpreview.github.com/?https://github.com/numfocus/diversity-and-inclusion-conversation-kit/blob/master/guide.html)**
 
-![numfocus-logo][./NumFocus.png]
+![numfocus-logo](NumFocus.png)
 
 <img align="left" height="200" src="DISC.png" />At the [Diversity and Inclusion in Scientific Computing (DISC) Unconference](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/), our group focused on ways to start and maintain conversations about diversity and inclusion in the workplace. Our product for the two-day unconference was this quick start guide and a set of D&I Big Talk cards<sup>[[13](#r-13)]</sup>.
 
