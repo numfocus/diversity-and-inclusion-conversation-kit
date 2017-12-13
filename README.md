@@ -127,8 +127,8 @@ Overall the DISC Unconference provided a fantastic venue for connecting with oth
     1. [Closer Than They Appear](https://closerthantheyappear.fm/)
     1. [Still Processing](https://www.nytimes.com/podcasts/still-processing)
   - Films
-    1. [Code: Debugging the Gender Gap](https://en.wikipedia.org/wiki/Selma_(film)
-    1. [Selma](https://en.wikipedia.org/wiki/Selma_(film)
+    1. [Code: Debugging the Gender Gap](https://en.wikipedia.org/wiki/Selma_(film))
+    1. [Selma](https://en.wikipedia.org/wiki/Selma_(film))
     1. [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures)
-    1. [13th](https://en.wikipedia.org/wiki/Milk_(film)
-    1. [Milk](https://en.wikipedia.org/wiki/Milk_(film)
+    1. [13th](https://en.wikipedia.org/wiki/Milk_(film))
+    1. [Milk](https://en.wikipedia.org/wiki/Milk_(film))
